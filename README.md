@@ -24,7 +24,7 @@ make setup
 
 ## 意識した点
 - ViewはStoryboardを使わずXibで実装
-- Xibの利点を活かし、デザイン部分はXib,InterdaceBuilderで実装し、文字関係の処理はSwiftGenを利用
+- Xibの利点を活かし、デザイン部分はXib,Interface Builderで実装し、文字関係の処理はSwiftGenを利用
 - APIClientはライブラリを使用せずに、URLSessionで実装
 - APIキーはMyAPIKey.swiftというファイルに置いてpushせずに利用
 - ライブラリを利用することでアニメーションを簡易化
