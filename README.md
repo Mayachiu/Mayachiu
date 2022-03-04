@@ -30,9 +30,9 @@ make setup
 - ライブラリを利用することでアニメーションを簡易化
 
 # 標識マスター
-[標識マスター](https://apps.apple.com/us/app/%E6%A8%99%E8%AD%98%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC-%E9%81%8B%E8%BB%A2%E5%85%8D%E8%A8%B1%E5%AF%BE%E7%AD%96%E3%81%AB%E6%9C%80%E9%81%A9%E3%81%AA%E3%82%A2%E3%83%97%E3%83%AA/id1590156979)
+[標識マスター](https://github.com/Mayachiu/CarQuiz)
 App Storeで1300ダウンロード
 
 # TweetSearch
-[TweetSearch](https://apps.apple.com/jp/app/tweetsearch-%E3%83%84%E3%82%A4%E3%83%BC%E3%83%88%E6%A4%9C%E7%B4%A2%E3%82%92%E7%B0%A1%E5%8D%98%E3%81%AB/id1589606489)
+[TweetSearch](https://github.com/Mayachiu/TweetSearch)
 Twitterで拡散され、160いいね
