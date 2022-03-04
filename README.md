@@ -6,6 +6,10 @@
 
 [RxSwift+MVVM](https://github.com/Mayachiu/CTAProject2022/tree/task1/MVVM)このブランチでRxSwift+MVVMへの書き換えを行っています。
 
+セットアップは
+```
+make setup
+```
 ## 使用技術
 - ホットペッパーAPI
 - SwiftGen
