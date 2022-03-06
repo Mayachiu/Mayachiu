@@ -3,9 +3,9 @@
 
 サイバーエージェント Tech Accel 2022で使用しているプロジェクト
 
-サイバーエージェント22卒のメンターの方にレビューを頂きながら、学習を進めました。[プルリクエスト](https://github.com/Mayachiu/CTAProject2022/pulls?q=is%3Apr+is%3Aclosed)
+サイバーエージェント22卒のメンターの方に[レビュー](https://github.com/Mayachiu/CTAProject2022/pulls?q=is%3Apr+is%3Aclosed)を頂きながら、学習を進めました。
 
-[RxSwift+MVVM](https://github.com/Mayachiu/CTAProject2022/tree/task1/MVVM)このブランチでRxSwift+MVVMへの書き換えを行っています。
+[このブランチ](https://github.com/Mayachiu/CTAProject2022/tree/task1/MVVM)でRxSwift+MVVMへの書き換えを行っています。
 
 セットアップは
 ```
