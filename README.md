@@ -13,13 +13,13 @@ make setup
 ```
 ## 使用技術
 - ホットペッパーAPI
-- SwiftGen
 - URLSession
-- PKHUD(インジケーター表示のライブラリ)
-- SwiftMessages(警告表示のライブラリ)
+- SwiftGen
+- SwiftLint(差分の関係で現在未対応)
 - RxSwift
 - RxCocoa
-- SwiftLint(差分の関係で現在未対応)
+- PKHUD(インジケーター表示のライブラリ)
+- SwiftMessages(警告表示のライブラリ)
 - Git
 
 ## 意識した点
