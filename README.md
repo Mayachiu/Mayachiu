@@ -31,7 +31,7 @@ make setup
 
 # 標識マスター
 [標識マスター](https://github.com/Mayachiu/CarQuiz)
-App Storeで1300ダウンロード
+App Storeで2500ダウンロード
 
 # TweetSearch
 [TweetSearch](https://github.com/Mayachiu/TweetSearch)
