@@ -11,6 +11,7 @@
 ```
 make setup
 ```
+
 ## 使用技術
 - ホットペッパーAPI
 - URLSession
