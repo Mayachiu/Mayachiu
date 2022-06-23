@@ -37,3 +37,7 @@ App Storeで2500ダウンロード
 # TweetSearch
 [TweetSearch](https://github.com/Mayachiu/TweetSearch)
 Twitterで拡散され、160いいね
+
+# GitSwipe
+[GitSwipe](https://github.com/Beyond-CTA/GitHubTinder)
+チームで開発しているアプリ
