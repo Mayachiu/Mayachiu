@@ -32,11 +32,11 @@ make setup
 
 # 標識マスター
 [標識マスター](https://github.com/Mayachiu/CarQuiz)
-App Storeで2500ダウンロード
+App Storeで3000ダウンロード
 
 # TweetSearch
 [TweetSearch](https://github.com/Mayachiu/TweetSearch)
-Twitterで拡散され、160いいね
+Twitterで160いいねのちょいバズ
 
 # GitSwipe
 [GitSwipe](https://github.com/Beyond-CTA/GitHubTinder)
